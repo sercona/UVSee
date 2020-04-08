@@ -2,6 +2,8 @@
 
 Ultra-violet Light Sensor (Arduino, Bluetooth, Serial)
 
+![arduino_uvc_diy_sensor](uv_sensor_01.jpg)
+
 A simple wireless and battery operated UV sensor module.  One possible use is to detect the presence of UV light (including UV-C) inside a disinfection chamber (ie, a light-sealed opaque box).  The UV-C radiation is harmful to skin, eyes and so it must be inside a sealed enclosure.  Exposure is set via a timer, typically a few minutes to an hour.  During that interval, it is useful to know if the UV-C light *actually* operational during that (light) soak time.  Since you are not allowed to look inside the box when the light is turned on, the UV dector is needed to confirm correct operation for the duration of the exposure.
 
 
@@ -32,3 +34,15 @@ Two vendor modules were purchased, just to have variety and some redundancy.  As
 
 - https://www.amazon.com/gp/product/B07VX6DTJT
 - https://www.amazon.com/gp/product/B00LEVTOB0
+
+# Schematic & Board Layout
+
+Currently, there is no custom PCB; but here is a bottom view of the hand-made board, for reference:
+
+![arduino_uvc_diy_sensor_bottom](uv_sensor_02.jpg)
+
+For reference, the BT module is on the far left (yellow, black, red wires going to it) and the two sensors are on the bottom/right of the photo.  Red is always 5v, black is always ground and purple is one of the sensor analog-out lines; this goes to arduino A2 analog input.  The other sensor has a very short direct 'bend-over' lead connection to the A0 input of the arduino.  The BT serial module is connected to 5v and ground and the yellow wire is the data-out (9600 serial TTL) from the Tx line on the standard arduino UART going to the Rx line on the bluetooth module.  Pinout is the same for hc-05 and hm-10.  Note, some setup is needed to auto-pair a set of BT modules.  Here is a good link for info about that: 
+
+http://www.martyncurrey.com/hm-10-bluetooth-4ble-modules/
+
+
