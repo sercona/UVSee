@@ -105,3 +105,19 @@ A very ugly - yet functional - opaque box to hold the minimal parts:
 
 Far left is the fluorescent style UVC bulb and fixture.  Its just taped to the wall of the box, for now.  (Many more lights are planned, and they will be properly mounted).   The AC cord is connected to an RF wireless remote control relay; this will let me turn the light on and off with the box covered (so its safe; remember, you do not want to look at the light while its in operation!).  The white plate is sitting on a motorized turntable that spins slowly.  All these are connected to a power strip.  The sensor module is alone on the plate, but it would share space with the items to be disinfected.  Later, the module will be in its own 3d printed small enclosure.
 
+
+
+# References
+
+- https://hackaday.com/2020/03/27/measuring-uv-c-for-about-5/
+
+- https://hackerfarm.jp/2020/03/nukemeter/
+
+- https://www.cloroxpro.com/wp-content/uploads/2018/09/UV-Myth-Debunking-Brochure_NI-41423.pdf
+
+- https://www.csbsju.edu/Documents/Nutrition/Bray%20poster.pdf
+ 
+- https://www.instructables.com/id/UVC-Sterilizer-for-COVID-19-Emergency/
+
+- https://www.nebraskamed.com/sites/default/files/documents/covid-19/n-95-decon-process.pdf
+
