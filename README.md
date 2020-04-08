@@ -1,6 +1,14 @@
 # UVSee
 
-Ultra-violet Light Sensor (Arduino, Bluetooth, Serial)
+...because, in 2020: "Corona Happens"
+
+![uv-mask-dis](uv-mask-dis.png)
+
+
+## Project Overview
+
+This project describes an Ultra-violet Light Sensor made with Arduino, Bluetooth and some off-the-shelf UV sensor modules.  This is part of a larger UV Disinfection project.
+
 
 ![arduino_uvc_diy_sensor](uv_sensor_01.jpg)
 
