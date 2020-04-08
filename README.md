@@ -44,6 +44,11 @@ Power is supplied by a 3.7-4.2v lithium poly battery.  These are commonly used f
 
 The bluetooth modules (hc-05 for bluetooth classic, or hm-10 for BLE) allow and easy and OS-independant way to have a "wireless serial connection" between 2 systems.  The arduino sensor module and its BT transmitter is the data sender, while a matching BT receiver is connected to a USB/serial cable such as FTDI, pl2303, cp2102 or equiv.  Speed is not critical as the data payload is very short (timestamp, sensor1_value, sensor2_value).  Simple ASCII is used to allow ease of viewing (even on android/apple phones using a BT terminal app).
 
+### Sample output:
+
+![serial-example](uvsee-serial-output.png)
+
+
 
 # Sensor Redundancy
 
@@ -63,3 +68,6 @@ For reference, the BT module is on the far left (yellow, black, red wires going 
 http://www.martyncurrey.com/hm-10-bluetooth-4ble-modules/
 
 
+# Source Code
+
+Arduino code is here: [uvsee_01.ino](uvsee_01.ino)
