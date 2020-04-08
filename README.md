@@ -122,6 +122,8 @@ Here is the motorized turntable I'm using:
 
 - https://hackerfarm.jp/2020/03/nukemeter/
 
+- https://medium.com/@mikedubrovsky/building-a-crude-uv-c-mask-ppe-disinfection-chamber-1-hour-30-minimal-tools-afb56ca3b120
+
 - https://www.cloroxpro.com/wp-content/uploads/2018/09/UV-Myth-Debunking-Brochure_NI-41423.pdf
 
 - https://www.csbsju.edu/Documents/Nutrition/Bray%20poster.pdf
