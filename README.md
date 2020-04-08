@@ -110,6 +110,12 @@ Here is what one style of bulb/fixture looks like, if you want to buy one at you
 ![uvc-amazon-6w](uvc-amazon-6w.png)
 
 
+Here is the motorized turntable I'm using:
+
+![turntable-motorized.png](turntable-motorized.png)
+
+
+
 # References
 
 - https://hackaday.com/2020/03/27/measuring-uv-c-for-about-5/
