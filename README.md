@@ -80,7 +80,9 @@ Arduino code is here: [uvsee_01.ino](uvsee_01.ino)
 
 ![go-away](go-away-lol.png)
 
-(This was from an amazon.com ad.  I guess it gets the point across, LOL)
+(This was from an amazon.com advertisement.  I guess it gets the point across, LOL.)
+
+Now that the *kids, kats and kactus* has left the room, we can continue...
 
 
 ## First Box Build
