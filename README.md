@@ -18,7 +18,24 @@ Implemented using easily-available parts:
 
 ## Application
 
-The arduino nano module, two of the guva-s12sd sensors and the bluetooth module are all mounted on a single general-purpose perf board, with wire-wrap wires used for a one-off prototype build.
+The arduino nano module:
+
+![nano](nano.png)
+
+
+two of the guva-s12sd sensors:
+
+![sensor1](adafruit-guva-s12sd.png)
+
+![sensor2](generic-guva-s12sd.png)
+
+
+and the bluetooth module:
+
+![bt-serial](bt-serial.png)
+
+
+are all mounted on a single general-purpose perf board, with wire-wrap wires used for a one-off prototype build.
 
 Power is supplied by a 3.7-4.2v lithium poly battery.  These are commonly used for "hobby drones"; they are cheap and charges are easily available.  To keep the sensor board smaller, no charging circuit was included.
 
