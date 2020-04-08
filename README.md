@@ -105,6 +105,9 @@ A very ugly - yet functional - opaque box to hold the minimal parts:
 
 Far left is the fluorescent style UVC bulb and fixture.  Its just taped to the wall of the box, for now.  (Many more lights are planned, and they will be properly mounted).   The AC cord is connected to an RF wireless remote control relay; this will let me turn the light on and off with the box covered (so its safe; remember, you do not want to look at the light while its in operation!).  The white plate is sitting on a motorized turntable that spins slowly.  All these are connected to a power strip.  The sensor module is alone on the plate, but it would share space with the items to be disinfected.  Later, the module will be in its own 3d printed small enclosure.
 
+Here is what one style of bulb/fixture looks like, if you want to buy one at your favorite mailorder site:
+
+![uvc-amazon-62](uvc-amazon-6w.jpg)
 
 
 # References
