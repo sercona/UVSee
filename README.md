@@ -16,7 +16,9 @@ This project describes an Ultra-violet Light Sensor made with Arduino, Bluetooth
 
 ## Introduction
 
-This is a simple wireless and battery operated UV sensor module.  One possible use is to detect the presence of UV light (including UV-C) inside a disinfection chamber (ie, a light-sealed opaque box).  The UV-C radiation is harmful to skin, eyes and so it must be inside a sealed enclosure.  Exposure is set via a timer, typically a few minutes to an hour.  During that interval, it is useful to know if the UV-C light *actually* operational during that (light) soak time.  Since you are not allowed to look inside the box when the light is turned on, the UV dector is needed to confirm correct operation for the duration of the exposure.
+This is a simple wireless and battery operated UV sensor module.  One possible use is to detect the presence of UV light (including UV-C) inside a disinfection chamber (ie, a light-sealed opaque box).  The UV-C radiation is harmful to skin and eyes and so it must be inside a sealed enclosure.  Exposure is set via a timer, typically a few minutes to an hour.  During that interval, it is useful to know if the UV-C light is *actually* operational during that (light) soak time.  
+
+Since you are not allowed to look inside the box when the light is turned on (no, that's not a reference to quantum particle physics), the UV detector is needed to confirm correct operation for the duration of the exposure.
 
 
 ## Parts Needed
