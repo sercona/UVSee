@@ -57,6 +57,7 @@ Two vendor modules were purchased, just to have variety and some redundancy.  As
 - https://www.amazon.com/gp/product/B07VX6DTJT
 - https://www.amazon.com/gp/product/B00LEVTOB0
 
+
 # Schematic & Board Layout
 
 Currently, there is no custom PCB; but here is a bottom view of the hand-made board, for reference:
@@ -74,6 +75,15 @@ Arduino code is here: [uvsee_01.ino](uvsee_01.ino)
 
 
 # Prototype UV-C Chamber
+
+## First, a note from our sponsor...
+
+![go-away](go-away-lol.png)
+
+(This was from an amazon.com ad.  I guess it gets the point across, LOL)
+
+
+## First Box Build
 
 A very ugly - yet functional - opaque box to hold the minimal parts:
 
