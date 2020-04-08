@@ -96,7 +96,7 @@ Arduino code is here: [uvsee_01.ino](uvsee_01.ino)
 
 (This was from an amazon.com advertisement.  I guess it gets the point across, LOL.)
 
-Now that the *kids, kats and kactus* has left the room, we can continue...
+Now that the *kids, kats and kactus* have left the room, we can continue...
 
 
 ## First Box Build
